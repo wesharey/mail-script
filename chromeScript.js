@@ -17,7 +17,7 @@
   document.write(layoutHTML);
 
 
-  var link = "mailto:OFS_Teams <OFS_Teams@yoox.com>; F31Support <F31Support@yoox.com>; Experience <experience@yoox.com>"
+  var link = "mailto: Yooxproduct_tech <Yooxproduct_tech@yoox.com>; OFS_Teams <OFS_Teams@yoox.com>; F31Support <F31Support@yoox.com>; Experience <experience@yoox.com>"
   + "?subject=" + escape("[WeShare] Prossimi eventi")
   + "&body="
   ;
